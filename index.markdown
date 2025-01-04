@@ -11,14 +11,14 @@ intro:
 feature_row:
   - image_path: /assets/images/apartman-garden.jpg
     alt: "Apartman Garden"
-    title: "Apartman Garden"
+    title: "Apartmán Garden"
     excerpt: "Nachádza sa  na 1. poschodí apartmánového domu, so súkromnou terasou s výhľadom na bazén. Apartmán má 2 spálne a rozťahovací gauč. Je vhodný pre 4 (max 5) osôb."
     url: "/apartman-garden"
     btn_label: "Viac"
     btn_class: "btn--primary"
   - image_path: /assets/images/apartman-sky.jpg
-    alt: "Apartman Sky"
-    title: "Apartman Sky"
+    alt: "Apartmán Sky"
+    title: "Apartmán Sky"
     excerpt: "Nachádza sa na 2. poschodí apartmánového domu, má 45m2, dve samostatné spálne a priestrannú loggiu s nádherným výhľadom na more. Je vhodný pre 4 osoby"
     url: "/apartman-sky"
     btn_label: "Viac"
