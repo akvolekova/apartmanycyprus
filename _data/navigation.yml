@@ -1,0 +1,9 @@
+main:
+  - title: "Lokalita"
+    url: /lokalita
+  - title: "robo.rico@gmail.com"
+    url: "mailto:robo.rico@gmail.com"
+  - title: "+421915999304"
+    url: "tel:+421915999304"
+  - title: "+421915999322"
+    url: "tel:+421915999322"

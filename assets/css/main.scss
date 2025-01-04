@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+$right-sidebar-width-narrow: 0px;
+$right-sidebar-width: 0px;
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+
+
+.dancing-script-400 {
+   font-family: "Dancing Script", serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+ }
+
+.site-title, .archive__item-title, .page__title a {
+  font-family: "Dancing Script", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 2em;
+  color: #357333 !important;
+}

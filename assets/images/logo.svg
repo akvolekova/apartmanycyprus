@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="162.589mm"
+   height="135.88499mm"
+   viewBox="0 0 162.589 135.88499"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.828086"
+     inkscape:cx="63.399212"
+     inkscape:cy="187.78243"
+     inkscape:window-width="1920"
+     inkscape:window-height="1128"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="272.35934"
+       y="624.91779"
+       width="347.00009"
+       height="100.05037"
+       id="rect14" />
+    <marker
+       markerWidth="0.52499998"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapTriangle"
+       viewBox="0 0 0.525 1"
+       inkscape:stockid="Triangle cap"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 1,0 0,1 -0.05,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)"
+         id="path61" />
+    </marker>
+    <marker
+       markerWidth="0.52499998"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="marker14"
+       viewBox="0 0 0.525 1"
+       inkscape:stockid="Triangle cap"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 1,0 0,1 -0.05,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)"
+         id="path14" />
+    </marker>
+    <rect
+       x="202.87711"
+       y="385.73944"
+       width="805.14014"
+       height="113.72035"
+       id="rect2" />
+    <rect
+       x="203.5127"
+       y="409.5853"
+       width="335.34796"
+       height="156.15439"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.341327,-80.557483)">
+    <path
+       d="m 104.99979,80.607483 c -29.112673,0 -53.682041,18.338207 -63.329044,44.087227 l 0.276677,0.20071 0.229726,-0.23659 C 60.65601,76.147597 136.68183,59.459006 161.41179,124.38082 l 7.22017,2.60235 C 158.98481,101.23416 134.11246,80.607483 104.99979,80.607483 Z M 41.410909,172.30576 c 9.647172,25.7487 34.476445,44.08672 63.588881,44.08672 29.1125,0 53.52122,-18.32041 63.16849,-44.06918 l -0.0943,-0.35815 -0.30931,0.31911 c -20.4542,53.69584 -97.365957,60.07 -119.372975,2.29781 z"
+       style="display:inline;fill:#357333;fill-opacity:1;stroke:#357333;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#CapTriangle);marker-end:url(#marker14)"
+       id="path13"
+       sodipodi:nodetypes="scccccscsccccc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.515778,30.605917)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#357333;fill-opacity:1;stroke:#357333;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="202.87695"
+         y="461.82909"
+         id="tspan2">Luxusné apartmány</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,12.770644,-0.8403698)"
+       id="text14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14);display:inline;fill:#357333;fill-opacity:1;stroke:#357333;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="272.35938"
+         y="662.96244"
+         id="tspan3">s bazénom</tspan></text>
+  </g>
+</svg>

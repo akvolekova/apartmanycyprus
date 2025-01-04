@@ -1,9 +1,9 @@
 ---
-title: "Luxusný apartmán Garden s bazénom"
+title: "Apartmán Garden"
 layout: single
 permalink: /apartman-garden
 header:
-  image: /assets/apartman-garden.jpg
+    image: /assets/images/pozadie4.jpg
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -13,3 +13,5 @@ V apartmáne je plne vybavená kuchynská linka s umývačkou riadu a kávovarom
 Priestranná kúpeľňa  má sprchovací kút, WC a práčku.
 
 Parkovanie k apartmánu je zabezpečené v podzemnej garáži s možnosťou úschovy bicyklov príp. športových potrieb.
+
+{% include image-gallery.html folder="/assets/images/apartman-garden/" %}

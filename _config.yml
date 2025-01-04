@@ -35,6 +35,10 @@ plugins:
   - jekyll-feed
 include:
   - "_pages"
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 # Exclude from processing.
 # The following items will not be processed, by default.

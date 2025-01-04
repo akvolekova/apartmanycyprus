@@ -1,9 +1,9 @@
 ---
-title: "Luxusný apartmán Sky s bazénom"
+title: "Apartmán Sky"
 layout: single
 permalink: /apartman-sky
 header:
-  image: /assets/apartman-sky.jpg
+  image: /assets/images/pozadie5.jpg
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -13,3 +13,5 @@ V apartmáne je plne vybavená kuchynská linka s umývačkou riadu a kávovarom
 Priestranná kúpeľňa má sprchovací kút, WC a práčku.
 
 Parkovanie  k apartmánu je zabezpečené v podzemnej garáži s možnosťou úschovy bicyklov príp. športových potrieb.
+
+{% include image-gallery.html folder="/assets/images/apartman-sky/" %}

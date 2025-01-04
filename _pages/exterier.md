@@ -2,11 +2,14 @@
 title: "Apartmánový dom"
 layout: single
 permalink: /apartmanovy-dom
+classes: wide
 header:
-  image: /assets/exterier.jpg
+  image: /assets/images/pozadie3.jpg
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro"  %}
+
+
 Apartmány sa nachádzajú v malebnom chorvátskom mestečku Rogoznica v novopostavenom apartmánovom dome s bazénom a podzemnou garážou, v blízkosti centra mestečka a pláží.
 
 V pešej dostupnosti sa nachádza pekáreń, tržnica, potraviny a detské centrum. Krásna kamenná promenáda so štýlovými reštauráciami je cca 10 min. pešo od apartmánu.
@@ -19,4 +22,6 @@ Obidva apartmány sú zariadená kvalitným hotelovým prádlom a uterákmi.
 
 Sú ideálne pre trávenie pokojnej dovolenky pre rodiny s deťmi, prípadne starými rodičmi, alebo aktívnymi pármi so záujmom spoznať Rogoznicu a jej okolie. 
 
-Sú tu možnosti požičania motorových člnov,potápania, lodných a bicyklových výletov po okolí. 
+Sú tu možnosti požičania motorových člnov, potápania, lodných a bicyklových výletov po okolí. 
+
+{% include image-gallery.html folder="/assets/images/exterier/" %}
