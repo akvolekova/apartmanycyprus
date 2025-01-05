@@ -11,6 +11,6 @@ header:
 
 Poloha Rogoznice v strednej Dalmácií umožňuje dobré možnosti na výlety v okolí: historické mestá Primošten 8km, Trogir 25km, Šibenik 30km, Split 57km.
 
-Letisko Split je vzdialené 30km a lietajú sem priame lety z Viedne aj Prahy.
+Letisko Split je vzdialené 30km kde prilietajú priame lety z Viedne aj Prahy.
 
 {% include image-gallery.html folder="/assets/images/lokalita/" %}

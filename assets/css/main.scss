@@ -31,3 +31,12 @@ $right-sidebar-width: 0px;
   font-size: 2em;
   color: #357333 !important;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  max-height: 8em;
+}
