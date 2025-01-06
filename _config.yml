@@ -31,6 +31,7 @@ url: "https://apartamyrogoznica.sk" # the base hostname & protocol for your site
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-leaflet
 include:
   - "_pages"
 compress_html:

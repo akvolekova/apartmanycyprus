@@ -25,3 +25,14 @@ Sú ideálne pre trávenie pokojnej dovolenky pre rodiny s deťmi, prípadne sta
 Sú tu možnosti požičania motorových člnov, potápania, lodných a bicyklových výletov po okolí. 
 
 {% include image-gallery.html folder="/assets/images/exterier/" %}
+
+{% leaflet_map {"zoom" : 16,
+"divId": "myleaflet" } %}
+
+    {% leaflet_marker { "latitude" : 43.533077,
+                       "longitude" : 15.9696,
+                       "popupContent" : "Apartmány Rogoznica"
+                        }
+    %}
+
+{% endleaflet_map %}
