@@ -9,6 +9,7 @@ $right-sidebar-width: 0px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+@import "gallery";
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 // <uniquifier>: Use a unique and descriptive class name

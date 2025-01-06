@@ -1,0 +1,31 @@
+.image-gallery {
+  @include breakpoint(max-width $small) {
+    display: block;
+  }
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  row-gap: 1em;
+  justify-content: space-evenly;
+}
+.image-gallery div {
+  @include breakpoint($small) {
+    height: 10em;
+  }
+  @include breakpoint(max-width $small) {
+    margin-top: 1em;
+  }
+}
+.image-gallery div a {
+  text-align: center;
+  text-decoration: none !important;
+  color: #777;
+}
+.image-gallery div a img {
+  @include breakpoint(max-width $small) {
+    width: 100%;
+  }
+  height: 100%;
+  display: block;
+}
