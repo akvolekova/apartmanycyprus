@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0" />
+    <title>Stencil Component Starter</title>
+
+    <script type="module" src="/build/calendar.esm.js"></script>
+    <script nomodule src="/build/calendar.js"></script>
+  </head>
+  <body>
+  <calendar-app
+    availability='{
+    "2025-02-01": false,
+    "2025-02-05": true,
+    "2025-02-10": false
+  }'
+    prices='{
+    "2025": {
+      "02": "100",
+      "03": "120"
+    }
+  }'
+  ></calendar-app>
+  </body>
+</html>

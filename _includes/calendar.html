@@ -1,0 +1,6 @@
+<script type="module" src="{{ '/assets/js/calendar/www/build/calendar.esm.js' | relative_url }}" data-stencil></script>
+<script nomodule src="{{ '/assets/js/calendar/www/build/calendar.js' | relative_url }}" data-stencil></script>
+
+<div style="margin-top: 2em;">
+    <calendar-app availability="{{ include.availability | jsonify | escape }}" prices="{{ include.prices | jsonify | escape }}"></calendar-app>
+</div>

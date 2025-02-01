@@ -1,0 +1,76 @@
+.calendar {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.month-year {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 1.2em;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  width: 14.28%;
+  padding: 10px;
+  text-align: center;
+  vertical-align: top;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+td {
+  height: 100px;
+  position: relative;
+}
+
+.day {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 0.9em;
+  margin-top: 5px;
+}
+
+.available {
+  background-color: #d4edda;
+}
+
+.unavailable {
+  background-color: #f8d7da;
+}
+
+.unavailable .day,
+.unavailable .price {
+  color: #721c24;
+}

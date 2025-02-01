@@ -1,0 +1,2 @@
+import{p as a,b as r}from"./p-a3712a8e.js";export{s as setNonce}from"./p-a3712a8e.js";import{g as e}from"./p-e1255160.js";var t=()=>{const r=import.meta.url;const e={};if(r!==""){e.resourcesUrl=new URL(".",r).href}return a(e)};t().then((async a=>{await e();return r([["p-3cf487d2",[[1,"calendar-app",{availability:[1],prices:[1],currentMonth:[32],currentYear:[32]}]]]],a)}));
+//# sourceMappingURL=calendar.esm.js.map
