@@ -1,6 +1,6 @@
 .calendar {
   width: 100%;
-  max-width: 800px;
+  max-width: 750px;
   margin: 0 auto;
   font-family: Arial, sans-serif;
 }
@@ -48,7 +48,7 @@ th {
 }
 
 td {
-  height: 100px;
+  height: 50px;
   position: relative;
 }
 
