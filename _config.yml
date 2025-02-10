@@ -30,7 +30,6 @@ url: "https://apartamyrogoznica.sk" # the base hostname & protocol for your site
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
   - jekyll-leaflet
 include:
   - "_pages"
@@ -38,6 +37,19 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+atom_feed:
+  hide: true
+
+
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fa-brands fa-instagram"
+      url: "https://instagram.com/apartmanyrogoznica"
+    - label: "Google Maps"
+      icon: "fa-brands fa-google"
+      url: "https://maps.app.goo.gl/DY9hmjvnLoxJQTiJ6"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
