@@ -14,21 +14,21 @@ feature_row:
     title: "Apartmán Garden"
     excerpt: "Nachádza sa  na 1. poschodí apartmánového domu, so súkromnou terasou s výhľadom na bazén. Apartmán má 2 spálne a rozťahovací gauč. Je vhodný pre 4 (max 5) osôb."
     url: "/apartman-garden"
-    btn_label: "Viac"
+    btn_label: "Viac info"
     btn_class: "btn--primary"
   - image_path: /assets/images/apartman-sky.jpg
     alt: "Apartmán Sky"
     title: "Apartmán Sky"
     excerpt: "Nachádza sa na 2. poschodí apartmánového domu, má 45m2, dve samostatné spálne a priestrannú loggiu s nádherným výhľadom na more. Je vhodný pre 4 osoby"
     url: "/apartman-sky"
-    btn_label: "Viac"
+    btn_label: "Viac info"
     btn_class: "btn--primary"
   - image_path: /assets/images/exterier2.jpg
     alt: "Exteriér"
     title: "Apartmánový dom"
     excerpt: "Apartmány sa nachádzajú v malebnom chorvátskom mestečku Rogoznica v novopostavenom apartmánovom dome s bazénom a podzemnou garážou, v blízkosti centra mestečka a pláží."
     url: "/apartmanovy-dom"
-    btn_label: "Viac"
+    btn_label: "Viac info"
     btn_class: "btn--primary"
 ---
 
