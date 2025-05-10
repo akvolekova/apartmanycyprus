@@ -6,12 +6,12 @@ permalink: /terminy-ceny
 #    image: /assets/images/pozadie4.jpg
 ---
 
-Apartmán Garden
+Apartmán Lighthouse P26
 ---
 
-{% include calendar.html availability=site.data.availability-garden prices=site.data.prices %}
+{% include calendar.html availability=site.data.availability-lighthouse prices=site.data.prices %}
 
-Apartmán Sky
+Apartmán Oasis
 ---
 
-{% include calendar.html availability=site.data.availability-sky prices=site.data.prices %}
+{% include calendar.html availability=site.data.availability-oasis prices=site.data.prices %}

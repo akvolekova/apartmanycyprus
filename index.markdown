@@ -6,28 +6,28 @@ permalink: /
 header:
   image: /assets/images/splash2.jpg
 intro:
-  - title: Vitajte v apartmánoch pri Jadrane.
-  - excerpt: Luxusné apartmány s bazénom a výhľadom na more.
+  - title: Vitajte v apartmánoch na Esentepe beach
+  - excerpt: s neuveriteľným výhľadom na more a hory.
 feature_row:
   - image_path: /assets/images/apartman-garden.jpg
-    alt: "Apartman Garden"
-    title: "Apartmán Garden"
-    excerpt: "Nachádza sa  na 1. poschodí apartmánového domu, so súkromnou terasou s výhľadom na bazén. Apartmán má 2 spálne a rozťahovací gauč. Je vhodný pre 4 (max 5) osôb."
-    url: "/apartman-garden"
+    alt: "Apartmán Lighthouse P26"
+    title: "Apartmán Lighthouse P26"
+    excerpt: "Úplne nový penthouse s jedinečnou polohou nachádzajúci sa nad plážou Esentepe s vlastným bazénom na súkromnej strešnej terase s 360-stupňovým výhľadom na more a hory a 3 minúty chôdze od pláže Esentepe."
+    url: "/apartman-lighthouse"
     btn_label: "Viac info"
     btn_class: "btn--primary"
   - image_path: /assets/images/apartman-sky.jpg
-    alt: "Apartmán Sky"
-    title: "Apartmán Sky"
-    excerpt: "Nachádza sa na 2. poschodí apartmánového domu, má 45m2, dve samostatné spálne a priestrannú loggiu s nádherným výhľadom na more. Je vhodný pre 4 osoby"
-    url: "/apartman-sky"
+    alt: "Apartmán Oasis"
+    title: "Apartmán Oasis"
+    excerpt: "Nový pripravovaný penthouse s jednou spálňou a dvami kúpeľňami sa bude nachádzať v úplne novej lokalite vybudovaného projektu OASIS. Projekt bude vybavený vnútorným bazénom so saunami, posilňovňou a jogou, reštauráciami, vonkajším bazénom a detským bazénom."
+    url: "/apartman-oasis"
     btn_label: "Viac info"
     btn_class: "btn--primary"
   - image_path: /assets/images/exterier2.jpg
-    alt: "Exteriér"
-    title: "Apartmánový dom"
-    excerpt: "Apartmány sa nachádzajú v malebnom chorvátskom mestečku Rogoznica v novopostavenom apartmánovom dome s bazénom a podzemnou garážou, v blízkosti centra mestečka a pláží."
-    url: "/apartmanovy-dom"
+    alt: "Okolie a výlety"
+    title: "Okolie a výlety"
+    excerpt: ""
+    url: "/okolie-a-vylety"
     btn_label: "Viac info"
     btn_class: "btn--primary"
 ---

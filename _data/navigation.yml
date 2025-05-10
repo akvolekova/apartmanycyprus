@@ -3,7 +3,5 @@ main:
     url: /lokalita
   - title: "Terminy a ceny"
     url: /terminy-ceny
-  - title: "Instagram"
-    url: "https://instagram.com/apartmanyrogoznica"
   - title: "Mapa"
     url: "https://maps.app.goo.gl/DY9hmjvnLoxJQTiJ6"
