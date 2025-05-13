@@ -40,9 +40,9 @@ Pre detailné mapy a plánovanie cyklotrás v oblasti Kyrenie odporúčame tieto
 {% leaflet_map {"zoom" : 16,
 "divId": "myleaflet" } %}
 
-    {% leaflet_marker { "latitude" : 43.533077,
-                       "longitude" : 15.9696,
-                       "popupContent" : "Apartmány Rogoznica"
+    {% leaflet_marker { "latitude" : 35.3513853,
+                       "longitude" : 33.5918561,
+                       "popupContent" : "Apartmán Lighthouse"
                         }
     %}
 
