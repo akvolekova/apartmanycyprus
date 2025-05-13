@@ -36,14 +36,3 @@ Pre detailné mapy a plánovanie cyklotrás v oblasti Kyrenie odporúčame tieto
 - **Bikemap:** Umožňuje plánovanie a sledovanie cyklotrás s možnosťou prispôsobenia podľa vlastných preferencií.
 
 {% include image-gallery.html folder="/assets/images/okolie/" %}
-
-{% leaflet_map {"zoom" : 16,
-"divId": "myleaflet" } %}
-
-    {% leaflet_marker { "latitude" : 35.3513853,
-                       "longitude" : 33.5918561,
-                       "popupContent" : "Apartmán Lighthouse"
-                        }
-    %}
-
-{% endleaflet_map %}

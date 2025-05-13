@@ -22,6 +22,17 @@ Obidve spálne sú vybavené veľkými pohodlnými manželskými posteľami o ro
 V spoločných priestoroch sa nachádza gym, masáže, sauny a komunálny bazén. Zároveň je bezplatná možnosť využitia všetkých týchto služieb aj v projekte Deja Blue (DEJA BLUE- Eco wellness resort, ktorý je cca 5min autom od apartmánu (postačí QR kód, ktorý Vám pošleme).
 
 
+{% include calendar.html availability=site.data.availability-lighthouse prices=site.data.prices %}
+
 {% include image-gallery.html folder="/assets/images/apartman-lighthouse/" %}
 
-{% include calendar.html availability=site.data.availability-lighthouse prices=site.data.prices %}
+{% leaflet_map {"zoom" : 16,
+"divId": "myleaflet" } %}
+
+    {% leaflet_marker { "latitude" : 35.3513853,
+                       "longitude" : 33.5918561,
+                       "popupContent" : "Apartmán Lighthouse"
+                        }
+    %}
+
+{% endleaflet_map %}
