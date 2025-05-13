@@ -30,3 +30,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "minimal-mistakes-jekyll"
 gem "jekyll-leaflet"
 gem "erb"
+gem "csv"
