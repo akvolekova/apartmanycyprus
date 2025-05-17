@@ -1,0 +1,13 @@
+<div class="video-container">
+    {% for file in site.static_files sorted %}
+    {% if file.path contains include.folder %}
+    {% if file.extname == '.mp4'%}
+    <video class="responsive-video" width="480" height="640" controls>
+        <source src="{{ file.path | relative_url }}" type="video/mp4">
+        <source src="{{ file.path | relative_url | replace: '.mp4', '.webm' }}" type="video/webm">
+        Your browser does not support the videos.
+    </video>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</div>

@@ -10,14 +10,6 @@
         </a>
     </div>
     {% endif %}
-    {% if file.extname == '.mp4'%}
-    <div>
-        <a href="{{ file.path | relative_url }}" title="{{ filename }}">
-            <video src="{{ file.path | relative_url }}" />
-            <span></span>
-        </a>
-    </div>
-    {% endif %}
     {% endif %}
     {% endfor %}
 </div>

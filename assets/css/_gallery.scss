@@ -37,3 +37,34 @@
   height: 100%;
   display: block;
 }
+
+/* Kontajner pre video */
+.video-container {
+  display: flex; /* Použijeme Flexbox pre zarovnanie */
+  justify-content: center; /* Centrujeme video horizontálne */
+  align-items: center; /* Centrujeme video vertikálne */
+  flex-direction: column; /* Ak by bolo viacej videí, budú sa zoradiť vertikálne */
+  gap: 1rem; /* Medzera medzi videami (ak ich bude viac) */
+  padding: 1rem; /* Padding okolo kontajnera */
+  box-sizing: border-box; /* Aby padding nezmenšil šírku */
+}
+
+/* Štýly pre video */
+.responsive-video {
+  width: 100%; /* Video zaberá 100% šírky rodičovského kontajnera */
+  height: auto; /* Výška sa prispôsobí podľa šírky */
+  max-width: 480px; /* Maximálna šírka videa */
+  margin: 0 auto; /* Centrujeme video v rámci kontajnera */
+  display: block; /* Video ako blokový element */
+  aspect-ratio: 16 / 9; /* Zachovávame pomer strán 16:9 */
+  border-radius: 8px; /* Zaoblené rohy pre lepší vzhľad */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Jemný tieň pre 3D efekt */
+}
+
+/* Prispôsobenie pre menšie obrazovky (tablety a mobily) */
+@media (max-width: 768px) {
+  .responsive-video {
+    max-width: 100%; /* Na mobiloch a tabletoch bude video zaberáť celú šírku */
+    margin: 0; /* Zrušíme margin na mobiloch */
+  }
+}
