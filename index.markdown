@@ -16,7 +16,7 @@ feature_row:
     url: "/apartman-lighthouse"
     btn_label: "Viac info"
     btn_class: "btn--primary"
-  - image_path: /assets/images/apartman-sky.jpg
+  - image_path: /assets/images/apartman-oasis.jpg
     alt: "Apartmán Oasis"
     title: "Apartmán Oasis"
     excerpt: "Nový pripravovaný penthouse s jednou spálňou a dvami kúpeľňami sa bude nachádzať v úplne novej lokalite vybudovaného projektu OASIS. Projekt bude vybavený vnútorným bazénom so saunami, posilňovňou a jogou, reštauráciami, vonkajším bazénom a detským bazénom."
