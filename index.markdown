@@ -9,7 +9,7 @@ intro:
   - title: Vitajte v apartmánoch na Esentepe beach
   - excerpt: s neuveriteľným výhľadom na more a hory.
 feature_row:
-  - image_path: /assets/images/apartman-garden.jpg
+  - image_path: /assets/images/apartman-lighthouse.jpg
     alt: "Apartmán Lighthouse P26"
     title: "Apartmán Lighthouse P26"
     excerpt: "Úplne nový penthouse s jedinečnou polohou nachádzajúci sa nad plážou Esentepe s vlastným bazénom na súkromnej strešnej terase s 360-stupňovým výhľadom na more a hory a 3 minúty chôdze od pláže Esentepe."
