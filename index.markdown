@@ -11,7 +11,7 @@ intro:
 feature_row:
   - image_path: /assets/images/apartman-lighthouse.jpg
     alt: "Apartmán Lighthouse P26"
-    title: "Apartmán Lighthouse P26"
+    title: "Apartmán Lighthouse"
     excerpt: "Úplne nový penthouse s jedinečnou polohou nachádzajúci sa nad plážou Esentepe s vlastným bazénom na súkromnej strešnej terase s 360-stupňovým výhľadom na more a hory a 3 minúty chôdze od pláže Esentepe."
     url: "/apartman-lighthouse"
     btn_label: "Viac info"
@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/exterier2.jpg
     alt: "Okolie a výlety"
     title: "Okolie a výlety"
-    excerpt: ""
+    excerpt: "Kyrenia a jej okolie ponúkajú bohatstvo prírodných krás a historických pamiatok, od pokojnej Golden Beach po impozantné stredoveké hrady. Ideálne miesto na cyklistiku, s množstvom rôznych trás, ktoré vedú cez malebné dediny, pobrežné scenérie a horské výhľady."
     url: "/okolie-a-vylety"
     btn_label: "Viac info"
     btn_class: "btn--primary"

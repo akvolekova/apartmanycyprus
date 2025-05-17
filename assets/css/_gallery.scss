@@ -29,3 +29,11 @@
   height: 100%;
   display: block;
 }
+
+.image-gallery div a video {
+  @include breakpoint(max-width $small) {
+    width: 100%;
+  }
+  height: 100%;
+  display: block;
+}

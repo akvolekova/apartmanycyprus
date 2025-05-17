@@ -1,5 +1,5 @@
 ---
-title: "Apartmán Lighthouse"
+title: "Apartmán Lighthouse P26"
 layout: single
 permalink: /apartman-lighthouse
 header:
@@ -29,8 +29,8 @@ V spoločných priestoroch sa nachádza gym, masáže, sauny a komunálny bazén
 {% leaflet_map {"zoom" : 16,
 "divId": "myleaflet" } %}
 
-    {% leaflet_marker { "latitude" : 35.3513853,
-                       "longitude" : 33.5918561,
+    {% leaflet_marker { "latitude" : 35.352,
+                       "longitude" : 33.59,
                        "popupContent" : "Apartmán Lighthouse"
                         }
     %}
