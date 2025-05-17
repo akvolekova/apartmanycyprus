@@ -7,7 +7,7 @@ header:
   image: /assets/images/splash2.jpg
 intro:
   - title: Vitajte v apartmánoch na Esentepe beach
-  - excerpt: s neuveriteľným výhľadom na more a hory.
+  - excerpt: s vlastným bazénom a neuveriteľným výhľadom na more a hory.
 feature_row:
   - image_path: /assets/images/apartman-lighthouse.jpg
     alt: "Apartmán Lighthouse P26"
