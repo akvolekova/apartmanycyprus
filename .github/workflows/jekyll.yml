@@ -59,10 +59,8 @@ jobs:
           host: apartmanycyprus.com # Recommended to put the credentials in github secrets.
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
-          compress: true # Compression
           localDir: "./_site/" # Required, Absolute or relative to cwd.
           remoteDir: "/" # Required, Absolute path only.
-          removeExtraFilesOnServer: true
 
   # Deployment job
   deploy:
