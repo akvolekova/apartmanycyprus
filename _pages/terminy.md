@@ -1,7 +1,7 @@
 ---
 title: "Termíny a ceny"
 layout: single
-permalink: /terminy-ceny
+permalink: /terminy-ceny/
 #header:
 #    image: /assets/images/pozadie4.jpg
 ---

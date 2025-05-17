@@ -42,7 +42,6 @@ jobs:
       - name: Install gems
         run: |
           bundle install
-          sudo apt-get install -y ncftp
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

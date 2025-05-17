@@ -1,7 +1,7 @@
 ---
 title: "Lokalita"
 layout: single
-permalink: /lokalita
+permalink: /lokalita/
 classes: wide
 header:
   image: /assets/images/exterier.jpg

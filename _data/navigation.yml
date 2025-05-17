@@ -1,7 +1,7 @@
 main:
   - title: "Lokalita"
-    url: /lokalita
+    url: /lokalita/
   - title: "Terminy a ceny"
-    url: /terminy-ceny
+    url: /terminy-ceny/
   - title: "Mapa"
     url: "https://maps.app.goo.gl/uX73YazumUy2baXy8"

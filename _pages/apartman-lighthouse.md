@@ -1,7 +1,7 @@
 ---
 title: "Apartmán Lighthouse P26"
 layout: single
-permalink: /apartman-lighthouse
+permalink: /apartman-lighthouse/
 header:
   image: /assets/images/pozadie4.jpg
 ---

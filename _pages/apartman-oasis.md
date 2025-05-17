@@ -1,7 +1,7 @@
 ---
 title: "Apartmán Oasis"
 layout: single
-permalink: /apartman-oasis
+permalink: /apartman-oasis/
 header:
   image: /assets/images/pozadie5.jpg
 ---

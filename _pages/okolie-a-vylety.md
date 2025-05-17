@@ -1,7 +1,7 @@
 ---
 title: "Okolie a výlety"
 layout: single
-permalink: /okolie-a-vylety
+permalink: /okolie-a-vylety/
 classes: wide
 header:
   image: /assets/images/pozadie3.jpg
