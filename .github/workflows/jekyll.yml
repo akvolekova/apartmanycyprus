@@ -60,7 +60,6 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           compress: true # Compression
-          forceUpload: true # Optional, Force uploading all files, Default to false(upload only newer files).
           localDir: "./_site/" # Required, Absolute or relative to cwd.
           remoteDir: "/" # Required, Absolute path only.
           removeExtraFilesOnServer: true
