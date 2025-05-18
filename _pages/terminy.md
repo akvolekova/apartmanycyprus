@@ -10,8 +10,3 @@ Apartmán Lighthouse P26
 ---
 
 {% include calendar.html availability=site.data.availability-lighthouse prices=site.data.prices %}
-
-Apartmán Oasis
----
-
-{% include calendar.html availability=site.data.availability-oasis prices=site.data.prices %}

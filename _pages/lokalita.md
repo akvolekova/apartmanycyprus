@@ -4,7 +4,7 @@ layout: single
 permalink: /lokalita/
 classes: wide
 header:
-  image: /assets/images/exterier.jpg
+  image: /assets/images/lokalita.jpg
 ---
 
 {% include feature_row id="intro" type="center" %}
