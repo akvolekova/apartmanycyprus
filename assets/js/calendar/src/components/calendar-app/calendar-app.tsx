@@ -90,25 +90,28 @@ export class CalendarApp {
 
   private handleMonthChange(increment: number) {
     const { currentYear, currentMonth } = this;
-    const newMonth = currentMonth + increment;
+    let newMonth = currentMonth + increment;
+    let newYear = currentYear
+    if (newMonth < 0) {
+      newMonth = 11
+      newYear = currentYear - 1
+    } else  if (newMonth > 11) {
+      newMonth = 0
+      newYear = currentYear + 1
+    }
 
     const prices = this.parsePrices();
-    const currentYearStr = currentYear.toString();
-    const nextMonthPrice = prices[currentYearStr]?.[String(newMonth + 1).padStart(2, '0')];
+    const newYearStr = newYear.toString();
+    const nextMonthPrice = prices[newYearStr]?.[String(newMonth + 1).padStart(2, '0')];
 
-    if (newMonth < 0 || newMonth > 11 || !nextMonthPrice) {
+    if (!nextMonthPrice) {
+      this.currentYear = currentYear;
+      this.currentMonth = currentMonth;
       return; // Don't allow month change if no price available for the month
     }
 
-    if (newMonth < 0) {
-      this.currentYear = currentYear - 1;
-      this.currentMonth = 11;
-    } else if (newMonth > 11) {
-      this.currentYear = currentYear + 1;
-      this.currentMonth = 0;
-    } else {
-      this.currentMonth = newMonth;
-    }
+    this.currentYear = newYear;
+    this.currentMonth = newMonth;
   }
 
   render() {
